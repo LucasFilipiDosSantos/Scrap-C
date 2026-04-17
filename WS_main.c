@@ -13,7 +13,6 @@
 
 void vParseTrade(const char *kpszPayload);
 int  iRunWorker(void);
-/
 
 void vParseTrade(const char *kpszPayload)
 {
