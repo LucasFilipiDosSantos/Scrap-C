@@ -69,7 +69,7 @@ gcc src/main.c -o scrap -lcurl
 
 - Implementação de parser HTML mais robusto
 - Suporte a múltiplas URLs
-- Exportação de dados em JSON ou CSV
+- Exportação de dados em TXT
 - Melhor tratamento de erros
 - Interface de linha de comando mais completa
 
