@@ -48,3 +48,6 @@ Suporte a múltiplas URLs
 Exportação de dados em TXT
 Melhor tratamento de erros
 Interface de linha de comando mais completa
+Autor
+
+Lucas Filipi dos Santos
