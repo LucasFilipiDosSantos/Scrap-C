@@ -45,9 +45,6 @@ O projeto é educacional e focado em aprendizado
 Melhorias futuras
 Implementação de parser HTML mais robusto
 Suporte a múltiplas URLs
-Exportação de dados em JSON ou CSV
+Exportação de dados em TXT
 Melhor tratamento de erros
 Interface de linha de comando mais completa
-Autor
-
-Lucas Filipi dos Santos
